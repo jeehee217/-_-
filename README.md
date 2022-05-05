@@ -10,10 +10,17 @@ to do list 만들기
           통일된 색상의 분위기와 쉬운 사용감에 초점을 두고 디자인했다. 
 ```
 
+
+
+
+
 ![한지희 2](https://user-images.githubusercontent.com/103006061/167019635-2e9fe334-b4dd-417c-a052-43e8033989ae.jpg)
 
 
 **계획한 일정이 끝나면 다음과 같이 좌측 사각형을 클릭하여 체크 표시를 한다**
+
+
+
 
 
 ![한지희 4](https://user-images.githubusercontent.com/103006061/167019984-9d8eef1b-8916-4dc3-9848-2a6688986037.jpg)
@@ -23,6 +30,10 @@ to do list 만들기
 
 **일정을 추가하고 싶다면 하단의 +표시를 클릭해 바로 일정을 입력할수도 있다.**
 
+
+
+
+
 ![한지희 3 1](https://user-images.githubusercontent.com/103006061/167020074-96090cfe-0e84-4285-b713-b477b8991b36.jpg)
 
 ![한지희 3 2](https://user-images.githubusercontent.com/103006061/167020094-649c4159-6a35-4a3b-9446-6dba8c79e0d0.jpg)
@@ -31,8 +42,14 @@ to do list 만들기
 
 
 **디자인적으로 시간대를 표시하는 서비스를 시도해보고 싶어서 넣은 기능이다. 일정 우측의 펜표시를 클릭하면 시간대를 입력하라는 창이 나오고 이를 입력하면 오른쪽 타임테이블에 시간대가 형광펜으로 표시된다.**
-~~ 페이지를 만들때 마지막 기능은 생략해도 좋습니다!~~
+
+ 페이지를 만들때 마지막 기능은 생략해도 좋습니다!
+
 
 감사합니다!
+
+
+
+
 
 [링크](https://www.figma.com/file/FhILkQDsWLQNw0xAdEsjPt/0408-%EC%8A%A4%ED%84%B0%EB%94%94-1-_-todo-list?node-id=0%3A1)
