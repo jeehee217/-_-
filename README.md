@@ -47,10 +47,20 @@ to do list 만들기
  페이지를 만들때 마지막 기능은 생략해도 좋습니다!
 
 
-감사합니다!
+
+**(수정사항입니다)**
 
 
 
+![한지희 5 수정](https://user-images.githubusercontent.com/103006061/167026425-e0530973-37b5-4dbb-849d-c66be1821d2e.jpg)
+
+![한지희 5(1) 수정](https://user-images.githubusercontent.com/103006061/167026453-da398ac1-0299-4742-8631-9e1e857c0591.jpg)
+
+![한지희 5(2) 수정](https://user-images.githubusercontent.com/103006061/167026459-a0c17136-8d00-4a18-ba45-3795aa180cbb.jpg)
+
+
+**타임테이블을 생략하고 '끝낸 일로 전환' 기능을 추가했습니다.**
+감사합니다
 
 
 [링크](https://www.figma.com/file/FhILkQDsWLQNw0xAdEsjPt/0408-%EC%8A%A4%ED%84%B0%EB%94%94-1-_-todo-list?node-id=0%3A1)
