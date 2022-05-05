@@ -34,11 +34,12 @@ to do list 만들기
 
 
 
+![한지희 3](https://user-images.githubusercontent.com/103006061/167020097-5123706f-745e-4932-b7ae-d00dede6d381.jpg)
+
 ![한지희 3 1](https://user-images.githubusercontent.com/103006061/167020074-96090cfe-0e84-4285-b713-b477b8991b36.jpg)
 
 ![한지희 3 2](https://user-images.githubusercontent.com/103006061/167020094-649c4159-6a35-4a3b-9446-6dba8c79e0d0.jpg)
 
-![한지희 3](https://user-images.githubusercontent.com/103006061/167020097-5123706f-745e-4932-b7ae-d00dede6d381.jpg)
 
 
 **디자인적으로 시간대를 표시하는 서비스를 시도해보고 싶어서 넣은 기능이다. 일정 우측의 펜표시를 클릭하면 시간대를 입력하라는 창이 나오고 이를 입력하면 오른쪽 타임테이블에 시간대가 형광펜으로 표시된다.**
