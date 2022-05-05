@@ -1,11 +1,14 @@
 4월 8일 진행된 UI/UX 과제입니다.
 
-# to do list 만들기 
+to do list 만들기
+===============
+
 ![한지희 1](https://user-images.githubusercontent.com/103006061/167018632-8d4c4d73-a3d4-43df-b6eb-29f266bf01f3.jpg)
-'''
-디자인 컨셉: 깔끔하고 푸른톤의 to do list! 좌측엔 일정 계획, 우측에는 그 계획에 해당하는 시간대를 표시할 수 있어 유용하다. 
-          통일된 색상의 분위기와 쉬운 사용감에 초점을 두고 디자인했다.
-'''
+
+```
+## 디자인 컨셉: 깔끔하고 푸른톤의 to do list! 좌측엔 일정 계획, 우측에는 그 계획에 해당하는 시간대를 표시할 수 있어 유용하다. 
+##           통일된 색상의 분위기와 쉬운 사용감에 초점을 두고 디자인했다. 
+```
 
 ![한지희 2](https://user-images.githubusercontent.com/103006061/167019635-2e9fe334-b4dd-417c-a052-43e8033989ae.jpg)ㅎ
 
@@ -24,3 +27,5 @@
 ~~ 페이지를 만들때 마지막 기능은 생략해도 좋습니다!~~
 
 감사합니다!
+
+[Figma](https://www.figma.com/file/FhILkQDsWLQNw0xAdEsjPt/0408-%EC%8A%A4%ED%84%B0%EB%94%94-1-_-todo-list?node-id=0%3A1)
